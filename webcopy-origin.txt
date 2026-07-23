@@ -1,0 +1,992 @@
+Uri: https://adairbnbandrealestate.com/
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\index.htm
+Content Type: text/html
+
+Uri: https://adairbnbandrealestate.com/comments/feed/
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://adairbnbandrealestate.com/contact-us-3/
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\contact-us-3\index.htm
+Content Type: text/html
+
+Uri: https://adairbnbandrealestate.com/feed/
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://adairbnbandrealestate.com/ux_room/deluxe-double-room/
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\ux_room\deluxe-double-room\index.htm
+Content Type: text/html
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKgS4.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKgS4.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKgS4.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKgS4.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKgS4.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKgS4.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKgS4.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKgS4.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtFmSq17w.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtFmSq17w.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmSq17w.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmSq17w.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtHmSq17w.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtHmSq17w.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSo.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtMmSq17w.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\fonts\cormorant-garamond\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtMmSq17w.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/chaty-pro/css/chaty-front.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\chaty-pro\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/chaty-pro/images/header-bottom.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\chaty-pro\images\header-bottom.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/chaty-pro/images/header-top.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\chaty-pro\images\header-top.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/chaty-pro/images/whatsapp-welcome-popup.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\chaty-pro\images\whatsapp-welcome-popup.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/chaty-pro/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\chaty-pro\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/chaty-pro/js/cht-front-script.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\chaty-pro\js\cht-front-script.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/contact-form-7/includes/css/styles.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/contact-form-7/includes/js/index.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/css/frontend.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/css/widget-google_maps.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\css\widget-google_maps.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/css/widget-image.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/revslider/admin/includes/shortcode_generator/elementor/assets/js/sr7-elementor-preview.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\revslider\admin\includes\shortcode_generator\elementor\assets\js\sr7-elementor-preview.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/revslider/public/css/sr7.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\revslider\public\css\sr7.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/revslider/public/js/libs/tptools.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\revslider\public\js\libs\tptools.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/revslider/public/js/sr7.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\revslider\public\js\sr7.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/css/_general.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\css\_general.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/css/_template.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\css\_template.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/js/room.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\js\room.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/js/template.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\js\template.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/libs/datepick/jquery.datepick.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\libs\datepick\jquery.datepick.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/libs/datepick/jquery.datepick.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\libs\datepick\jquery.datepick.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/libs/datepick/jquery.plugin.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\libs\datepick\jquery.plugin.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/libs/lightgallery/css/lg-fb-comment-box.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\libs\lightgallery\css\lg-fb-comment-box.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/libs/lightgallery/img/loading.gif
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\libs\lightgallery\img\loading.gif
+Content Type: image/gif
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/libs/nice-select/js/jquery.nice-select.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\libs\nice-select\js\jquery.nice-select.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/assets/libs/validate/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\assets\libs\validate\jquery.validate.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/uxper-booking/includes/payment/assets/js/payment.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\uxper-booking\includes\payment\assets\js\payment.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\fonts\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Bold.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Bold.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Bold.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Italic.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Italic.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Italic.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Light.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Light.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Light.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Light.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-LightItalic.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-LightItalic.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-LightItalic.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-LightItalic.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Medium.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Medium.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Medium.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-MediumItalic.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-MediumItalic.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Regular.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Regular.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-Regular.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-SemiBold.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-SemiBoldItalic.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-SemiBoldItalic.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/CormorantGaramond-SemiBoldItalic.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\CormorantGaramond-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/CormorantGaramond/stylesheet.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\CormorantGaramond\stylesheet.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Bold.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Bold.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Bold.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Book.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Book.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Book.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Book.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-BookItalic.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-BookItalic.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-BookItalic.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-BookItalic.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Light.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Light.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Light.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Light.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Medium.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Medium.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Medium.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Semi.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Semi.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/Jost-Semi.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\Jost-Semi.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/fonts/jost/stylesheet.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\fonts\jost\stylesheet.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/images/bg-playvideo.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\images\bg-playvideo.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/images/left-arrow.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\images\left-arrow.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/images/quote.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\images\quote.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/images/right-arrow.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\images\right-arrow.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/images/wave-center.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\images\wave-center.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/js/vendor.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\js\vendor.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/css/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-duotone-900.eot
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-duotone-900.eot?
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-duotone-900.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-duotone-900.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/growl/css/jquery.growl.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\growl\css\jquery.growl.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/growl/js/jquery.growl.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\growl\js\jquery.growl.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/infinite-scroll/infinite-scroll.pkgd.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\infinite-scroll\infinite-scroll.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/isotope/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\isotope\js\isotope.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/jquery-nice-select/css/nice-select.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\jquery-nice-select\css\nice-select.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/css/lightgallery.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\css\lightgallery.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/img/loading.gif
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\img\loading.gif
+Content Type: image/gif
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/img/video-play.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\img\video-play.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/img/vimeo-play.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/img/youtube-play.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/lightgallery/js/lightgallery-all.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\lightgallery\js\lightgallery-all.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/packery/packery-mode.pkgd.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\packery\packery-mode.pkgd.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/smartmenus/jquery.smartmenus.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\smartmenus\jquery.smartmenus.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/smooth-scroll/jquery.smooth-scroll.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\smooth-scroll\jquery.smooth-scroll.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/smooth-scroll/SmoothScroll.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\smooth-scroll\SmoothScroll.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/swiper/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\swiper\js\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/assets/libs/waypoints/jquery.waypoints.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\assets\libs\waypoints\jquery.waypoints.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/inc/elementor/assets/js/widgets/group-widget-carousel.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\inc\elementor\assets\js\widgets\group-widget-carousel.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/inc/elementor/assets/js/widgets/widget-icon-box.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\inc\elementor\assets\js\widgets\widget-icon-box.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/inc/elementor/assets/libs/vivus/vivus.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\inc\elementor\assets\libs\vivus\vivus.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/style.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\style.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/themes/nuss/style.min.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\themes\nuss\style.min.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2021/06/cropped-site_icon-100x100.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2021\06\cropped-site_icon-100x100.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2021/06/cropped-site_icon-300x300.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2021\06\cropped-site_icon-300x300.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2021/07/qr-code-100x100.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2021\07\qr-code-100x100.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2021/07/qr-code-150x150.png
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2021\07\qr-code-150x150.png
+Content Type: image/png
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-1.55.15-PM-1-1140x1100.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-1.55.15-PM-1-1140x1100.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-1.55.15-PM-1-1920x650.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-1.55.15-PM-1-1920x650.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-1.55.15-PM-1-500x500.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-1.55.15-PM-1-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-1.55.15-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-1.55.15-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-1.55.25-PM-500x500.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-1.55.25-PM-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-1.55.25-PM.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-1.55.25-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-5.33.26-PM-1-500x500.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-5.33.26-PM-1-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-5.33.26-PM-1.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-5.33.26-PM-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-5.33.26-PM-3-500x500.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-5.33.26-PM-3-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-5.33.26-PM-3.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-5.33.26-PM-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-7.10.52-PM-500x500.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-7.10.52-PM-500x500.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-15-at-7.10.52-PM.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\04\WhatsApp-Image-2026-04-15-at-7.10.52-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-2.23.33-PM.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\07\WhatsApp-Image-2026-07-08-at-2.23.33-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-08-at-2.29.39-PM.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\07\WhatsApp-Image-2026-07-08-at-2.29.39-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-09-at-1.54.40-AM.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\2026\07\WhatsApp-Image-2026-07-09-at-1.54.40-AM.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/css/base-desktop.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\css\base-desktop.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/css/post-2102.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\css\post-2102.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/css/post-4317.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\css\post-4317.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/css/post-4735.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\css\post-4735.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/css/post-5011.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\css\post-5011.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/css/post-5205.css
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\css\post-5205.css
+Content Type: text/css
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2026-04-15-at-1.55.21-PM-2-rm3ttoztsny76l0947pn1kgmf11eaplwo0xmfwk6jg.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\thumbs\WhatsApp-Image-2026-04-15-at-1.55.21-PM-2-rm3ttoztsny76l0947pn1kgmf11eaplwo0xmfwk6jg.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2026-04-15-at-5.33.26-PM-3-rm3tzvrkseef0lh3chq0v9nupcjxbblr54eijmwetk.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\thumbs\WhatsApp-Image-2026-04-15-at-5.33.26-PM-3-rm3tzvrkseef0lh3chq0v9nupcjxbblr54eijmwetk.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2026-04-15-at-7.10.52-PM-rm3txqot7zh4r7irkzvllng25ahiahw8jx3u04oom0.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\thumbs\WhatsApp-Image-2026-04-15-at-7.10.52-PM-rm3txqot7zh4r7irkzvllng25ahiahw8jx3u04oom0.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2026-07-09-at-1.54.40-AM-2-rq8mkuxja5p11558vl6rji4l9gjz8vf3kzb1g45tc4.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-content\uploads\elementor\thumbs\WhatsApp-Image-2026-07-09-at-1.54.40-AM-2-rq8mkuxja5p11558vl6rji4l9gjz8vf3kzb1g45tc4.jpeg
+Content Type: image/jpeg
+
+Uri: https://adairbnbandrealestate.com/wp-includes/js/dist/hooks.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-includes/js/dist/i18n.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-includes/js/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-includes/js/jquery/ui/core.min.js
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://adairbnbandrealestate.com/wp-json/
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://adairbnbandrealestate.com/wp-json/wp/v2/pages/2102
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-json\wp\v2\pages\2102
+Content Type: application/json
+
+Uri: https://adairbnbandrealestate.com/wp-json/wp/v2/pages/5011
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\wp-json\wp\v2\pages\5011
+Content Type: application/json
+
+Uri: https://adairbnbandrealestate.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Cormorant+Garamond:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Jost:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM5.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTf-iNM5.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5FTf-iNM5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDf-iNM5.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5LDf-iNM5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDD-iNM5.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5rDD-iNM5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM5.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd5wDD-iNM5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9KnTOjw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_hg9KnTOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9KnTOjw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_iE9KnTOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOjw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_qE6KnTOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOjw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_s06KnTOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v21/co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86KnTOjw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\cormorantgaramond\v21\co3umX5slCNuHLi8bLeY9MK7whWMhyjypVO7abI26QOD_v86KnTOjw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0EBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0EBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjIjVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwjIjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjJTVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwjJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwKIjVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mwKIjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJDVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myjJDVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\s\jost\v20\92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://nuss.uxper.co/bnb-home/wp-content/uploads/sites/5/2021/11/photo-1598901865264-4f5f30954532.jpeg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\bnb-home\wp-content\uploads\sites\5\2021\11\photo-1598901865264-4f5f30954532.jpeg
+Content Type: image/jpeg
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/bathroom-hair-dryer.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\04\bathroom-hair-dryer.svg
+Content Type: image/svg+xml
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/dresser-drawers-2.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\04\dresser-drawers-2.svg
+Content Type: image/svg+xml
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/laundry-iron.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\04\laundry-iron.svg
+Content Type: image/svg+xml
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/modern-tv-flat.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\04\modern-tv-flat.svg
+Content Type: image/svg+xml
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/office-chair-table.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\04\office-chair-table.svg
+Content Type: image/svg+xml
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/saving-safe-1.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\04\saving-safe-1.svg
+Content Type: image/svg+xml
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/wifi-check.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\04\wifi-check.svg
+Content Type: image/svg+xml
+
+Uri: https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/06/tea-kettle-1.svg
+File Name: C:\Downloaded Web Sites\adairbnbandrealestate.com\boutique-hotel\wp-content\uploads\sites\2\2021\06\tea-kettle-1.svg
+Content Type: image/svg+xml
+
